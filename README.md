@@ -3,9 +3,9 @@
 </div>
 
 # CAROUSEL
-Advanced computational framework for high-throughput microstructure simuLations (CAROUSEL) is a framework developed for simulating and mapping the material properties during advanced manufacturing. It is specially designed for a high-throughput screening of different chemical compositions and processing parameters. The approach is based on the calculation of phase diagrams known as the CALPHAD. The solidification process is modelled using the Scheil-Gulliver approach which gives the information about primary precipitates for further calculation of precipitation kinetics in solid state. It is possible to design speical heat treatments, test different chemical compositions and track the history of a single precipitation phase. The AMCF offers also various tools for analizing the generated data and making  decisions on the best material-processing parameters combination according to the applied criteria (e.g. strength).
+Advanced computational framework for high-throughput microstructure simuLations (CAROUSEL) is a framework developed for simulating and mapping the material properties during advanced manufacturing. It is specially designed for a high-throughput screening of different chemical compositions and processing parameters. The approach is based on the calculation of phase diagrams known as the CALPHAD. The solidification process is modelled using the Scheil-Gulliver approach which gives the information about primary precipitates for further calculation of precipitation kinetics in solid state. It is possible to design speical heat treatments, test different chemical compositions and track the history of a single precipitation phase. The CAROUSEL offers also various tools for analizing the generated data and making  decisions on the best material-processing parameters combination according to the applied criteria (e.g. strength).
 
-The framework is using the external software MatCalc as the CALPHAD implementation. It is important to keep in mind that the AMCF framework does not provide any license to the MatCalc software. To be able to use the framework, the availability of the MatCalc license is required at the user side. Alternatively, one can use the MatCalc free version which is restricted to 3 chemical elements and free databases. 
+The framework is using the external software MatCalc as the CALPHAD implementation. It is important to keep in mind that the CAROUSEL framework does not provide any license to the MatCalc software. To be able to use the framework, the availability of the MatCalc license is required at the user side. Alternatively, one can use the MatCalc free version which is restricted to 3 chemical elements and free databases. 
 
 ## CAROUSEL Core
 CAROUSEL CORE is a command-line interface that facilitates automation of tasks. It provides all backend functionalities without any graphical representation options.
@@ -18,7 +18,7 @@ The framework is currently only available for the Windows desktop, however, it i
 
 ## Requirements
 
-- CALPHAD software: The AMCF framework does not include or promote any CALPHAD based software, and does not provide a license. Currently, only the [MatCalc](https://www.matcalc.at/) API is supported, but more options will be added in the future.
+- CALPHAD software: The CAROUSEL framework does not include or promote any CALPHAD based software, and does not provide a license. Currently, only the [MatCalc](https://www.matcalc.at/) API is supported, but more options will be added in the future.
 
 ## Install
 
