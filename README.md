@@ -45,4 +45,4 @@ CAROUSEL offers different visualization options for fast data analysis. Differen
 - The application is now ready for use; you need to follow the instructions in the [documentation](https://github.com/SColibri/AMFramework/wiki) on how to get started.
 
 # Documentation
-A more detailed description of the CAROUSEL software can be found in the [documentation](https://codedocs.xyz/SColibri/AMFramework). This includes information about CAROUSEL and instructions on how to use and contribute to CAROUSEL.
+A more detailed description of the CAROUSEL software can be found in the [documentation](https://codedocs.xyz/SColibri/AMFramework). This includes information about CAROUSEL and instructions on how to use and contribute to CAROUSEL. For general aspects of materials design using high-throughput thermodynamic and kinetic simulations, please refer to the webinar available on YouTube https://www.youtube.com/watch?v=hIH1D7ABh54.
