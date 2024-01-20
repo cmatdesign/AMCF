@@ -20,7 +20,7 @@ The core implementation includes logic for communication with external packages 
 The CAROUSEL GUI is currently available only for Windows. In the future, it is planned to expand the availability of the software for other operating systems. The core implementation can be used on any operating system. 
 
 ## CALPHAD Software
-The framework uses the external CALPHAD software MatCalc. It is important to note that CAROUSEL does not provide any license for the MatCalc software. A valid MatCalc license is required on the user side to use the framework. Alternatively, the user can use a free version of MatCalc, which is restricted to 3 chemical elements and free databases. MatCalc API is used for communication with CAROUSEL.
+The framework uses the external CALPHAD software MatCalc 6.03. It is important to note that CAROUSEL does not provide any license for the MatCalc software. A valid MatCalc license is required on the user side to use the framework. Alternatively, the user can use a free version of MatCalc, which is restricted to 3 chemical elements and free databases. MatCalc API is used for communication with CAROUSEL.
 
 ## High-Performance Computing
 The thread manager is implemented into CAROUSEL to utilize all available resources to ensure efficient and rapid calculations. At the next step, it is planned to test the framework on a supercomputer.
